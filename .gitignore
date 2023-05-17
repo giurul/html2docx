@@ -1,4 +1,6 @@
+*.egg-info
 *.docx
 *.pyc
 
+build
 venv
